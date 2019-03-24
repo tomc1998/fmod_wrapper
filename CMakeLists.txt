@@ -11,6 +11,8 @@ set (fmod-wrapper-srcs
   ${src-dir}/main.cpp
   ${src-dir}/bank_manager.cpp
   ${src-dir}/bank.cpp
+  ${src-dir}/event.cpp
+  ${src-dir}/event_instance.cpp
   ${src-dir}/fmod_system.cpp
   )
 
